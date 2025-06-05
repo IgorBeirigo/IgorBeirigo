@@ -8,6 +8,8 @@
 
 <div>
   <img align="center" alt="Igor-Js" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Igor-java" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Igor-Springboot" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/Springboot-original.svg">
   <img align="center" alt="Igor-html" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-css" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-react" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
