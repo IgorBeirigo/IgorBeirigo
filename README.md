@@ -12,26 +12,6 @@ Sou um desenvolvedor em formação apaixonado por tecnologia e soluções criati
 ### 🛠️ Tecnologias que uso
 
 <div align="center">
-  <!-- aqui mantém os ícones que você já colocou -->
-</div>
-
----
-
-### 📫 Contato
-
-<div align="center">
-  <a href="mailto:igorfernandes.b.silva@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/igor-beirigo-a3a238245" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-
----
-
-<div align="center">
   <img alt="Igor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="Igor-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img alt="Igor-dot-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
@@ -47,6 +27,8 @@ Sou um desenvolvedor em formação apaixonado por tecnologia e soluções criati
 
 ---
 
+### 📫 Contato
+
 <div align="center">
   <a href="mailto:igorfernandes.b.silva@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -55,3 +37,4 @@ Sou um desenvolvedor em formação apaixonado por tecnologia e soluções criati
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
