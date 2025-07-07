@@ -9,7 +9,7 @@ Sou um desenvolvedor em formação apaixonado por tecnologia e soluções criati
 
 ---
 
-### 🛠️ Tecnologias que uso
+### 🛠️ Tecnologias
 
 <div align="center">
   <img alt="Igor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
