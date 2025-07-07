@@ -1,29 +1,33 @@
-## Olá! Eu sou o Igor Beirigo
+## 👋 Olá! Me chamo Igor Beirigo  
+Sou um desenvolvedor em formação apaixonado por tecnologia e soluções criativas.
 
-- 🌱 Estudando Javascript  
+### 👨‍💻 Sobre mim
+- 🎓 Estudando C#, .NET, JavaScript e desenvolvimento web.
+- 🧠 Interesses: Front-End, Back-End, Cibersegurança.
+- 🌱 Buscando me especializar por meio de projetos práticos.
 - 😄 Pronomes: ele/dele  
 
+---
+
+### 🛠️ Tecnologias que uso
+
 <div align="center">
-  
-  <!-- GitHub Stats -->
-  <a href="https://github.com/IgorBeirigo">
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=IgorBeirigo&show_icons=true&theme=dracula&cache_seconds=7200" 
-      alt="IgorBeirigo GitHub stats"
-    />
-  </a>
-
-  <!-- Linguagens mais usadas -->
-  <a href="https://github.com/IgorBeirigo">
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBeirigo&layout=compact&theme=dracula&cache_seconds=7200"
-      alt="Top Langs"
-    />
-  </a>
-
+  <!-- aqui mantém os ícones que você já colocou -->
 </div>
+
+---
+
+### 📫 Contato
+
+<div align="center">
+  <a href="mailto:igorfernandes.b.silva@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/igor-beirigo-a3a238245" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
 
 ---
 
